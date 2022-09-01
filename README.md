@@ -1,7 +1,12 @@
 # Days-Between-Dates
 ### An algorithmic set of functions used to find the number of days between two dates.
 
-This program takes into account `leap years` and assumes that the `start date` input is always before the `end date`.
+- Input:
+    - integer parameters `year1, month1, day1, year2, month2, day2`
+- Output:
+    - integer `number of days`
+
+This program takes into account `leap years` and the assumption that the `start date` input is always before the `end date`.
 
 If the `start date` is the same as the `end date`, the program returns 0 days.
 
