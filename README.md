@@ -6,7 +6,7 @@
 - Output:
     - integer `number of days`
 
-This program takes into account `leap years` and the assumption that the `start date` input is always before the `end date`.
+This program takes into account `leap years` and the assumption that the `start date` input is before the `end date`.
 
 If the `start date` is the same as the `end date`, the program returns 0 days.
 
